@@ -5,6 +5,6 @@ The guy on the internet who thinks that Visual studio code is a puzzle game wher
 
 ## Contact
 
-Discord: Terncode#5123
+Discord: terncode
 <br/>
 Twitter: [Terncode](https://twitter.com/terncode)
